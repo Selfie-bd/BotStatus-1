@@ -14,7 +14,7 @@
 	"VideoMergeDcBot": {
 		"start": "start",
 		"sleep": 2
-	}
+	},
         "ConverterDcBot": {
 		"start": "start",
 		"sleep": 2
@@ -30,7 +30,7 @@
 	"MusicPlayerDcBot": {
 		"start": "start",
 		"sleep": 2
-	}
+	},
         "RenameDcBot": {
 		"start": "start",
 		"sleep": 2
@@ -46,7 +46,7 @@
 	"FlimSeriesDcBot": {
 		"start": "start",
 		"sleep": 2
-	}
+	},
         "Image2PdfDcBot": {
 		"start": "start",
 		"sleep": 2
