@@ -1,17 +1,65 @@
 {
-	"pypi_dlbot": {
+	"GroupManagerDcBot": {
 		"start": "start",
 		"sleep": 2
 	},
-	"ixail_bot": {
+	"MediaautoSearchbot": {
 		"start": "start",
 		"sleep": 2
 	},
-	"secure_me_robot": {
+	"Dcstreamsbot": {
 		"start": "start",
 		"sleep": 2
 	},
-	"medium_free_robot": {
+	"VideoMergeDcBot": {
+		"start": "start",
+		"sleep": 2
+	}
+        "ConverterDcBot": {
+		"start": "start",
+		"sleep": 2
+	},
+	"IdGetDcBot": {
+		"start": "start",
+		"sleep": 2
+	},
+	"UrlUploadDcBot": {
+		"start": "start",
+		"sleep": 2
+	},
+	"MusicPlayerDcBot": {
+		"start": "start",
+		"sleep": 2
+	}
+        "RenameDcBot": {
+		"start": "start",
+		"sleep": 2
+	},
+	"WatermarkDcBot": {
+		"start": "start",
+		"sleep": 2
+	},
+	"FileStoreDcBot": {
+		"start": "start",
+		"sleep": 2
+	},
+	"FlimSeriesDcBot": {
+		"start": "start",
+		"sleep": 2
+	}
+        "Image2PdfDcBot": {
+		"start": "start",
+		"sleep": 2
+	},
+	"SubtitlesDownDcBot": {
+		"start": "start",
+		"sleep": 2
+	},
+	"IssuesDcbot": {
+		"start": "start",
+		"sleep": 2
+	},
+	"FeedbackdcBot": {
 		"start": "start",
 		"sleep": 2
 	}
