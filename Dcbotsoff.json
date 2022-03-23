@@ -1,51 +1,51 @@
 {
 	"GroupManagerDcBot": {
 		"start": "start",
-		"sleep": 2
+		"sleep": 3
 	},
 	"MediaautoSearchbot": {
 		"start": "start",
-		"sleep": 2
+		"sleep": 4
 	},
 	"Dcstreamsbot": {
 		"start": "start",
-		"sleep": 2
+		"sleep": 6
 	},
 	"VideoMergeDcBot": {
 		"start": "start",
-		"sleep": 2
+		"sleep": 7
 	},
         "ConverterDcBot": {
 		"start": "start",
-		"sleep": 2
+		"sleep": 5
 	},
 	"IdGetDcBot": {
 		"start": "start",
-		"sleep": 2
+		"sleep": 8
 	},
 	"UrlUploadDcBot": {
 		"start": "start",
-		"sleep": 2
+		"sleep": 5
 	},
 	"MusicPlayerDcBot": {
 		"start": "start",
-		"sleep": 2
+		"sleep": 9
 	},
         "RenameDcBot": {
 		"start": "start",
-		"sleep": 2
+		"sleep": 3
 	},
 	"WatermarkDcBot": {
 		"start": "start",
-		"sleep": 2
+		"sleep": 4
 	},
 	"FileStoreDcBot": {
 		"start": "start",
-		"sleep": 2
+		"sleep": 8
 	},
 	"FlimSeriesDcBot": {
 		"start": "start",
-		"sleep": 2
+		"sleep": 5
 	},
         "Image2PdfDcBot": {
 		"start": "start",
@@ -57,10 +57,14 @@
 	},
 	"IssuesDcbot": {
 		"start": "start",
-		"sleep": 2
+		"sleep": 6
 	},
 	"FeedbackdcBot": {
 		"start": "start",
-		"sleep": 2
-	}
+		"sleep": 5
+	},
+        "sunnyhelpdcbot": {
+                "start": "start",
+                "sleep": 3
+        }
 }
